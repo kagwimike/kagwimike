@@ -10,11 +10,9 @@ I have built production-ready systems including travel platforms, library system
 🧠 **Core Expertise******
 Software Engineering
 
-Backend Architecture & System Design
+Backend Engineering
 
-RESTful APIs & Real-Time Systems
-
-Authentication & Authorization (JWT, RBAC)
+System Architect
 
 Database Design & Optimization
 
@@ -48,11 +46,7 @@ MongoDB
 **☁️ Tools & Platforms**
 Git & GitHub
 
-REST APIs & WebSockets
-
 JWT, Socket.IO, Multer, Nodemailer
-
-Docker (basic), Linux
 
 Postman, VS Code
 
