@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mikekagwi&label=Profile%20views&color=6D28D9&style=flat)](https://github.com/mikekagwi)
-[![GitHub followers](https://img.shields.io/github/followers/mikekagwi?label=Follow&style=social)]
+[![GitHub followers](https://img.shields.io/github/followers/mikekagwi?label=Follow&style=social)] (https://github.com/mikekagwi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mike-kagwi-1829973aa/)
 
 </div>
