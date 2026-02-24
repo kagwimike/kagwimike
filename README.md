@@ -12,9 +12,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="coding.svg" width="380"/>
-</div>
+</div> -->
 
 ---
 
