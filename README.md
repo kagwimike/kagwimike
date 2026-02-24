@@ -111,6 +111,20 @@ I have built **production-ready systems** including travel platforms, library sy
 
 ---
 
+## 📈 Engineering Philosophy
+
+```javascript
+const mikekagwi = {
+  principles: [
+    "Design the system before writing the first line of code",
+    "Write clean, maintainable, and scalable code",
+    "Build secure and performant applications by default",
+    "Solve real business problems with technology"
+  ],
+  openTo:    ["Full-stack / backend roles", "Fintech & enterprise projects", "Open-source collaboration"],
+  alwaysLearning: true
+};
+```
 ## 🤝 Let's Connect!
 
 Feel free to reach me via the following channels:
